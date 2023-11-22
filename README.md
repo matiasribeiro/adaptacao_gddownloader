@@ -1,6 +1,6 @@
-# GitHub Data Extractor
+# Adaptação do código do GDDownloader
 
-O GitHub Data Extractor é uma ferramenta para extrair dados de repositórios do GitHub, incluindo informações sobre problemas, comentários, eventos, commits, código-fonte e muito mais. Esses dados podem ser úteis para análise, pesquisa ou qualquer outra finalidade que exija informações detalhadas sobre um repositório do GitHub.
+O GDDownloader é uma ferramenta para extrair dados de repositórios do GitHub, incluindo informações sobre problemas, comentários, eventos, commits, código-fonte e muito mais. Esses dados podem ser úteis para análise, pesquisa ou qualquer outra finalidade que exija informações detalhadas sobre um repositório do GitHub.
 
 Este projeto é uma adaptação do [GDDownloader](https://github.com/thdiaman/GDDownloader). Agradecemos ao autor original por disponibilizar o código-fonte.
 
