@@ -21,4 +21,4 @@ Antes de usar a ferramenta, é necessário configurar algumas variáveis no arqu
 Para extrair dados de um repositório, você pode usar a interface da web fornecida. Execute o aplicativo Flask usando o seguinte comando:
 
 ```bash
-python app.py
+python gddownloader.py
